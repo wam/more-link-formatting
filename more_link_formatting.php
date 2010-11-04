@@ -2,7 +2,7 @@
 /*
 Plugin Name: More Link Formatting
 Plugin URI: http://freepizza.cc/
-Description: Allows the author to use basic markdown/textile-ish formatting in <!-- more --> links.
+Description: Allows the author to use basic textilish formatting in <!-- more --> links.
 Version: 0.1
 Author: Will Atwood Mitchell
 Author URI: http://freepizza.cc/
