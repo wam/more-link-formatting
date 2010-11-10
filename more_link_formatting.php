@@ -9,6 +9,23 @@ Author URI: http://freepizza.cc/
 
 Currently supports _emphasized_ and _strongly emphasized_ text.
 
+  	Copyright 2010	Will Atwood Mitchell
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+	
+?>
+
 */
 
 function wam_more_link_formatting($more_link, $more_link_text)
